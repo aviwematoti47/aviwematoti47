@@ -43,9 +43,3 @@ I bring a research-oriented mindset, strong problem-solving abilities, and a met
 </p>
 
 ---
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aviwe-matoti&show_icons=true&locale=en&layout=compact" alt="aviwe-matoti" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviwe-matoti&show_icons=true&locale=en" alt="aviwe-matoti" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviwe-matoti&" alt="aviwe-matoti" /></p>
