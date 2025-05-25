@@ -29,11 +29,11 @@
 
 - 🌱 I’m currently learning **Power BI, Streamlit, SQL, and Bayesian Networks**  
 - 🔭 I’m working on **heritage digitisation and academic performance analytics**  
-- 📫 Reach me at **aviwematoti@gmail.com / 2020040834@ufs4life.ac.za**
+- 📫 Reach me at **aviwematoti72@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aviwe-matoti" target="blank">
+  <a href="[https://linkedin.com/in/aviwe-matoti](https://www.linkedin.com/in/aviwe-matoti-2642ab19b/)" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviwe-matoti" height="30" width="40" />
   </a>
 </p>
