@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviwe Matoti</h1>
-<h3 align="center">Aspiring Data Scientist | Financial & Business Analyst | Research Assistant from South Africa</h3>
+<h3 align="center">Data Scientist | Financial & Business Analyst | Research Assistant from South Africa</h3>
 
 <p align="center">
   <img src="AV.png" alt="Aviwe Matoti" width="200" style="border-radius: 50%;" />
