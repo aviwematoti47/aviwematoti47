@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1643510675/3903/wave_hello.gif?1643510675" width="30"/> I'm Aviwe Matoti</h1>
+<h1 align="center">Hi I'm Aviwe Matoti</h1>
 <h3 align="center">A passionate Data | Statistical | Quantitative Analyst from South Africa</h3>
 
 <p align="justify">
