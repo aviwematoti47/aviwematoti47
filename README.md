@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Financial & Business Analyst | Research Assistant from South Africa</h3>
 
 <p align="center">
-  <img src="AV.png" alt="Aviwe Matoti" width="200" style="border-radius: 50%;" />
+  <img src="C:\Users\matotia\Pictures\AV.png" alt="Aviwe Matoti" width="200" style="border-radius: 50%;" />
 </p>
 
 <p align="justify">
