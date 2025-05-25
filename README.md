@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1643510675/3903/wave_hello.gif?1643510675" width="30"/> I'm Aviwe Matoti</h1>
-<h3 align="center">Data Analyst | Financial Researcher | Policy Enthusiast</h3>
+<h3 align="center">A passionate Data | Statistical | Quantitative Analyst from South Africa</h3>
 
 <p align="justify">
 I am a data-driven analyst with a Bachelor of Science in Statistics and Economics and a BCom Honours in Business and Financial Analytics from the University of the Free State, where I am currently pursuing a Master’s degree in Business and Financial Analytics. My academic journey has equipped me with a solid foundation in statistical theory, econometrics, and data modeling, while cultivating a passion for financial research and policy analysis.
